@@ -1,7 +1,12 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+# Development of an Image Capturing Unit for Remote Monitoring
 ___
 
-## Please refer the instructions in below URL:
+## The goal of this project is to create software that will capture and transfer images to a remote location so that the operation of the controlled system can be monitored.
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
+### Developers
+
+- Vilakshan
+- Nishani
+- Vithurshini
+
