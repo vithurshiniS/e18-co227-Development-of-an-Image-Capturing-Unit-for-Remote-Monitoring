@@ -21,9 +21,9 @@ title: Development of an Image Capturing Unit for Remote Monitoring
 
 
 ## Team
--  E/18/245, Nishani K, [email](e18245@eng.pdn.ac.lk)
--  E/18/340, Subramanieam V, [email](e18340@eng.pdn.ac.lk)
--  E/18/373, Vilakshan V, [email](e18373@eng.pdn.ac.lk)
+-  E/18/245, Nishani K, [email](mailto:e18245@eng.pdn.ac.lk)
+-  E/18/340, Subramanieam V, [email](mailto:e18340@eng.pdn.ac.lk)
+-  E/18/373, Vilakshan V, [email](mailto:e18373@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
