@@ -3,25 +3,27 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-XXX-project-template
-title:
+repository-name: e18-co227-Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring
+title: Development of an Image Capturing Unit for Remote Monitoring
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Development of an Image Capturing Unit for Remote Monitoring
 
 ---
 
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
+[comment]: # "This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)"
 
-![Sample Image](./images/sample.png)
+## The basic design of the project
+
+![Sample Image](./images/design_1.png)
 
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/18/245, Nishani K, [email](e18245@eng.pdn.ac.lk)
+-  E/18/340, Subramanieam V, [email](e18340@eng.pdn.ac.lk)
+-  E/18/373, Vilakshan V, [email](e18373@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -32,7 +34,7 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Introduction
 
- description of the real world problem and solution, impact
+To monitor the process of a controlled systems it is required to view the operation in real time. For this we create software that will capture and transfer images to a remote location so that the operation of the controlled system can be monitored.
 
 ## Other Sub Topics
 
