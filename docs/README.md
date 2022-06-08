@@ -19,6 +19,11 @@ title: Development of an Image Capturing Unit for Remote Monitoring
 
 ![Sample Image](./images/design_1.png)
 
+## The Solution Infrastructure
+![df](https://user-images.githubusercontent.com/73964224/172566264-e48bb7e6-953d-4723-9673-e70d42df7401.png)
+
+## Project Timeline
+![timelime](https://user-images.githubusercontent.com/73964224/172566498-bceffa4f-89db-48b9-9cd5-7e4013d4918d.png)
 
 ## Team
 -  E/18/245, Nishani K, [email](mailto:e18245@eng.pdn.ac.lk)
