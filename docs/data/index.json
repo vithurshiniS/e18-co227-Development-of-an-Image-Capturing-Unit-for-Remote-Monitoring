@@ -1,9 +1,9 @@
 {
     "team": [
         {
-            "name": "Team Member Name 1",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
+            "name": "Vilakshan",
+            "email": "e18373@eng.pdn.ac.lk",
+            "eNumber": "E/18/373"
         },
         {
             "name": "Team Member Name 2",
@@ -31,7 +31,7 @@
             "title": "Paper Title",
             "authors": "Person1, Person2, ...",
             "venue": "Journal or Conference Name",
-            "doi": "#",
+            "doi": "#"
         }
     ],
     "tags": ["Web", "Embedded Systems"]
