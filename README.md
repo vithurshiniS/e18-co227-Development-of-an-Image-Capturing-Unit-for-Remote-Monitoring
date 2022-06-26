@@ -1,7 +1,8 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+# Steps to run The flutter app
 ___
 
-## Please refer the instructions in below URL:
+## Install Flutter SDL
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
+
+
