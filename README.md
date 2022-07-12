@@ -20,7 +20,3 @@ ___
   
   <p>Our solution is to develop an image capturing unit that will meet the requirements of the clients.</p>
   
-  ## Design of our project:
-  
-  <img align="center" src="https://github.com/cepdnaclk/e18-co227-Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring/blob/main/docs/images/design_1.png">
-  
