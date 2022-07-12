@@ -1,10 +1,8 @@
 ___
-# DEVELOPMENT OF AN IMAGE CAPTURING UNIT FOR REMOTE MONITORING
-___
+<h1 align="center"> DEVELOPMENT OF AN IMAGE CAPTURING UNIT FOR REMOTE MONITORING</h1>
 
-## Problem Identification: Ever wondered to monitor your tasks remotely
+## Problem Identification: Ever wondered to monitor your tasks remotely...!What If
 
-<h2><p align="center"> What If</p></h2>
 <p align="center">you need to monitor the cultivational crops far away distant...!</p>
 <p align="center">you need to look after your kids far away from home...!</p>
 <p align="center">you need to monitor your patient remotely...!</p>
