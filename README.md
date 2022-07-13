@@ -13,7 +13,7 @@ ___
   Why do we need an image capturing unit for remote monitoring systems?
   
   These types of units are used to visualize the object under investigation such that the captured images can be used to undergo further analysis and decisions can be be made based on the analysis.
-  Nowadays we know that the needness for data is increasing day by day  in order to make decisions,increase productivity,make predictions and solutions. The captured images can be used as datasets for building models by data scirntists and data analysts.
+  Nowadays we know that the needness for data is increasing day by day  in order to make decisions,increase productivity,make predictions and solutions. The captured images can be used as datasets for building models by data scientists and data analysts.
   We can also use this unit for remote control and manage various applications.
   
   ## Proposed Solution:
