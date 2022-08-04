@@ -60,7 +60,7 @@ https://user-images.githubusercontent.com/73964224/182765841-10e701f4-1c3b-4afa-
 <!--
 ## Table of Contents
 1. [Introduction](#introduction)
--->
+
 
 
 ---
@@ -73,7 +73,7 @@ https://user-images.githubusercontent.com/73964224/182765841-10e701f4-1c3b-4afa-
 
 To monitor the process of a controlled systems it is required to view the operation in real time. For this we create software that will capture and transfer images to a remote location so that the operation of the controlled system can be monitored.
 
-
+-->
 ## Links
 
 - [Project Repository](https://github.com/cepdnaclk/e18-co227-Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring)
