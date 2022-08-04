@@ -21,4 +21,4 @@ ___
   
   <p>Our solution is to develop an image capturing unit that will meet the requirements of the clients.</p>
   
- main
+
