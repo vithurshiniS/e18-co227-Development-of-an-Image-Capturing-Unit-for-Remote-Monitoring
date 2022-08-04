@@ -1,12 +1,4 @@
 ___
-clientapp
-# Steps to run The flutter app
-___
-
-## Install Flutter SDL
-
-
-
 
 <h1 align="center"> DEVELOPMENT OF AN IMAGE CAPTURING UNIT FOR REMOTE MONITORING</h1>
 
