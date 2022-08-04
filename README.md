@@ -1,4 +1,13 @@
 ___
+clientapp
+# Steps to run The flutter app
+___
+
+## Install Flutter SDL
+
+
+
+
 <h1 align="center"> DEVELOPMENT OF AN IMAGE CAPTURING UNIT FOR REMOTE MONITORING</h1>
 
 ## Problem Identification: Ever wondered to monitor your tasks remotely...!What If
@@ -20,3 +29,4 @@ ___
   
   <p>Our solution is to develop an image capturing unit that will meet the requirements of the clients.</p>
   
+ main
