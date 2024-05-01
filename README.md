@@ -1,5 +1,3 @@
-___
-
 <h1 align="center"> DEVELOPMENT OF AN IMAGE CAPTURING UNIT FOR REMOTE MONITORING</h1>
 
 ## Problem Identification: Ever wondered to monitor your tasks remotely...!What If
@@ -21,4 +19,16 @@ ___
   
   <p>Our solution is to develop an image capturing unit that will meet the requirements of the clients.</p>
   
+=======
+# Development of an Image Capturing Unit for Remote Monitoring
+___
+
+### The goal of this project is to create software that will capture and transfer images to a remote location so that the operation of the controlled system can be monitored.
+
+### Developers
+
+- Vilakshan
+- Nishani
+- Vithurshini
+
 
